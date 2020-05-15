@@ -21,4 +21,6 @@ Step 16: When the icon next to the file name loses the blue circle, click it.
 Step 17: Press "OK" and then when the installer finishes, press "OK" again.    
 Step 18: Navigate to your ModdedMinecraft folder and make a folder inside it labeled "mods".    
 Step 19: Open the mods folder and paste in the mods you want to play with. If you are joining a server, ask the server host what to do.   
-Step 20: Open the Minecraft Launcher, click "Installations" and click your "Modded 1.15.2" profile.  Click "release 1.15.2" and find "release 1.15.2-forge-[some numbers]" 
+Step 20: Open the Minecraft Launcher, click "Installations" and click your "Modded 1.15.2" profile.  Click "release 1.15.2" and find "release 1.15.2-forge-[some numbers]" and click it.    
+Step 21: Press "Save", "Play" in the top left, the profile to the left of the big green button, your "Modded 1.15.2" profile, and then finally press the big green button.      
+Step 22: Have fun playing modded Minecraft in 1.15.2!  If you are trying to join a server, ask the host for the IP address.
