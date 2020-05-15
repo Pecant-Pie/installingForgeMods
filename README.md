@@ -3,5 +3,4 @@ This is an explanation on how to create a separate installation of Minecraft on 
 
 
 Step 1: Create a new folder on your desktop (or wherever you want to keep the minecraft files) and name it ModdedMinecraft
-
 Step 2:
