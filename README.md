@@ -3,7 +3,7 @@ This is an explanation on how to create a separate installation of Minecraft on 
 
 
 Step 1: Create a new folder on your desktop (or wherever you want to keep the minecraft files) and name it ModdedMinecraft 
-Step 2: Open your minecraft launcher and left click "MINECRAFT: Java Edition" on the left side. 
+Step 2: Open your minecraft launcher and left click "MINECRAFT: Java Edition" on the left side.  
 Step 3: Left click "Installations" in the top of the window. 
 Step 4: Left click the plus button next to "New..." in the top left of the lightest gray part of the window. 
 Step 5: Click "unnamed installation" at the top and type "Modded 1.15.2" (This will be the name of the profile that appears in your launcher. 
